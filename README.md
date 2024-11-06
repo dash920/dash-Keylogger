@@ -1,15 +1,15 @@
 ## Features
-Fully undetectable
-Stealthily captures keystrokes, clipboard data, and window titles
-Easy and human-readable output
-Persistence with auto-start at reboot
-Reports to Telegram
+- Fully undetectable
+- Stealthily captures keystrokes, clipboard data, and window titles
+- Easy and human-readable output
+- Persistence with auto-start at reboot
+- Reports to Telegram
 ## Installation Instructions
-Clone the repository.
-Install Python.
-cd path/to/your/script
-pip install pyinstaller
-pyinstaller --onefile --noconsole Keylogger.py
+1. Clone the repository.
+2. Install Python.
+3. cd path/to/your/script
+4. pip install pyinstaller
+5. pyinstaller --onefile --noconsole Keylogger.py
 ## Contact
 https://keybase.io/dashxx
 ## Disclaimer
